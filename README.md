@@ -1,4 +1,4 @@
-# Voting Management System
+# VoterId Management System
 This DBMS project have developed on PHP, MYSql, and web technologies.
 
 To Run:
