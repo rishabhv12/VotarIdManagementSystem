@@ -9,7 +9,7 @@ To Run:
 5) Default username: admin@admin.com , password: admin
 
 ## Preview
-<img width="500" src="https://iili.io/HBiVtA7.md.png" alt="HBiVtA7.md.png" border="0">
+<img width="500" src="https://github.com/rishabhv12/VotarIdManagementSystem/blob/ec0161660eeafcc33128a0c527876e8aa02d0d28/images/votar1.png" alt="HBiVtA7.md.png" border="0">
 <img width="500" src="https://iili.io/HBiVscl.md.png" alt="HBiVscl.md.png" border="0">
 <img width="500" src="https://iili.io/HBiVLS2.md.png" alt="HBiVLS2.md.png" border="0">
 
