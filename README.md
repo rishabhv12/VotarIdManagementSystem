@@ -10,8 +10,8 @@ To Run:
 
 ## Preview
 <img width="500" src="https://github.com/rishabhv12/VotarIdManagementSystem/blob/ec0161660eeafcc33128a0c527876e8aa02d0d28/images/votar1.png" alt="HBiVtA7.md.png" border="0">
-<img width="500" src="https://iili.io/HBiVscl.md.png" alt="HBiVscl.md.png" border="0">
-<img width="500" src="https://iili.io/HBiVLS2.md.png" alt="HBiVLS2.md.png" border="0">
+<img width="500" src="https://github.com/rishabhv12/VotarIdManagementSystem/blob/7c324f81e92bf18bace899c9830d55c06f524195/images/votar2.png" border="0">
+<img width="500" src="https://github.com/rishabhv12/VotarIdManagementSystem/blob/7c324f81e92bf18bace899c9830d55c06f524195/images/votar3.png" alt="HBiVLS2.md.png" border="0">
 
 <p align="center">
 Give the project a :star: if you liked it.<br>
